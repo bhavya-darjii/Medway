@@ -1,0 +1,1 @@
+ C:\\Users\\Admin\\Downloads\\Flutter_Medway-main\\flutter_final\\.dart_tool\\flutter_build\\e4f108351ce5745a0675ff5ff18bb609\\native_assets.yaml: 
